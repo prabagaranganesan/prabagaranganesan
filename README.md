@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @prabagaranganesan
 - 👀 I’m interested in contributing to open source projects
 - 🌱 I’m currently learning SwiftUI and Spring Boot
-- 💞️ I’m looking to collaborate on iOS open source projects
 - 📫 How to reach me nikprabha90@gmail.com
 
 <!---
