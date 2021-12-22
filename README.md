@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @prabagaranganesan
-- 👀 I’m interested in contributing to open source projects
+- 👋 Hi, I’m Prabagaran G
+- 👀 I’m an open source enthusiast
 - 🌱 I’m currently learning SwiftUI and Spring Boot
 - 📫 How to reach me nikprabha90@gmail.com
 
