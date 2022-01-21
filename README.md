@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Prabagaran G
 - 👀 I’m an open source enthusiast
-- 🌱 I’m currently learning SwiftUI
+- 🌱 I’m currently learning SwiftUI and Composable architecture
 - 📫 How to reach me nikprabha90@gmail.com
 
 <!---
